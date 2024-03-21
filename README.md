@@ -102,3 +102,15 @@ python scripts/task_consumer.py --tasklist ./scripts/all_tasks.txt --gpu 0
 python scripts/task_reducer.py --method <method id>
 ## output: EXPERIMENT_PATH/method<method id>/metric_mean.txt
 ~~~
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">Citation</h2>
+    <pre><code>@article{chung2023depth,
+    title={Depth-regularized optimization for 3d gaussian splatting in few-shot images},
+    author={Chung, Jaeyoung and Oh, Jeongtaek and Lee, Kyoung Mu},
+    journal={arXiv preprint arXiv:2311.13398},
+    year={2023}
+}</code></pre>
+  </div>
+</section>
