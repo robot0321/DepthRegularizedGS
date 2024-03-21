@@ -1,0 +1,16 @@
+1#fern#2#0
+2#fern#2#0
+1#fern#2#1
+2#fern#2#1
+1#flower#2#0
+2#flower#2#0
+1#flower#2#1
+2#flower#2#1
+1#fern#5#0
+2#fern#5#0
+1#fern#5#1
+2#fern#5#1
+1#flower#5#0
+2#flower#5#0
+1#flower#5#1
+2#flower#5#1
