@@ -26,8 +26,9 @@ You can easily install the dependencies with .yml file, or just install the rast
 conda env create --file environment.yml
 conda activate DepthRegularizedGS
 
-## (Option 2) If you already install the dependencies for 3DGS, just install the new (depth) rasterizer
+## (Option 2) If you already install the dependencies for 3DGS, just install the new (depth) rasterizer and pytorch3d
 pip install -e submodules/diff-gaussian-rasterization-depth-acc
+pip install pytorch3d
 ~~~
 
 
