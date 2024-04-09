@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# DRGS: Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images
+# [CVPRW 2024] DRGS: Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images
 ### [Jaeyoung Chung](https://robot0321.github.io/), [Jeongtaek Oh](https://taekkii.github.io/), [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)
   
 [![Project](https://img.shields.io/badge/Project_Page-DRGS-green)](https://robot0321.github.io/DepthRegGS/index.html)
@@ -8,8 +8,8 @@
 
 ![DRGSmethod](assets/mainfig.jpg)
 
-### :warning: Current code corresponds to version v1 as archived in [here](https://arxiv.org/abs/2311.13398v1) except the rasterizer :warning:
-#### :construction: We are currently in the process of gradually improving our methods. New code/paper will be updated later :construction: 
+<!--### :warning: Current code corresponds to version v1 as archived in [here](https://arxiv.org/abs/2311.13398v1) except the rasterizer :warning:
+#### :construction: We are currently in the process of gradually improving our methods. New code/paper will be updated later :construction: -->
 
 </div>
 
